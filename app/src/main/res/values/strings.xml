@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AllSports</string>
+    <string name="title_home">Football</string>
+    <string name="title_dashboard">Cricket</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_news">News</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password (Upto 4 digits.....)</string>
+
+    <string name="facebook_app_id">1107608846242180</string>
+    <string name="fb_login_protocol_scheme">fb1107608846242180</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
